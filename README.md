@@ -35,7 +35,7 @@ This analysis answers the following business questions:
 
 📈 **Power BI Dashboard:** Zomato Analytics.pbix
 
-🗄️ **SQL Data Scripts:** [SQL Link]
+🗄️ **SQL Data Scripts:** SQL - Zomato Analytics.sql
 
 📉 **Tableau Dashboard:** [[Tableau Link]](https://public.tableau.com/views/ZOMATO_DASHBOARD/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
