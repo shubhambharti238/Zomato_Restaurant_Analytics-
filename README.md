@@ -33,7 +33,7 @@ This analysis answers the following business questions:
 ---
 ## 📂 Project Resources
 
-📈 **Power BI Dashboard:** Zomato Analytics.pbix
+📈 **Power BI Dashboard:** [Zomato Analytics.pbix](https://github.com/shubhambharti238/Zomato-Analytics/blob/74cf589a7f5ef1f6b6ca52aac32289b26b6fd1df/Zomato%20Analytics.pbix)
 
 🗄️ **SQL Data Scripts:** [SQL - Zomato Analytics.sql](https://github.com/shubhambharti238/Zomato-Analytics/blob/eea2963312ac14153345d1ccf9e9869b9d9afb3b/SQL%20-%20Zomato%20Analytics.sql)
 
